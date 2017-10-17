@@ -142,6 +142,8 @@ Bug fixes:
   [#3376](https://github.com/commercialhaskell/stack/issues/3376).
 * `stack clean` now works with nix.  See
   [#3468](https://github.com/commercialhaskell/stack/issues/3376).
+* Properly handle relative paths stored in the precompiled cache files. See
+  [#3431](https://github.com/commercialhaskell/stack/issues/3431).
 
 
 ## 1.5.1
